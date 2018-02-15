@@ -1,5 +1,5 @@
 {
-  "name": "@amilajack_/oracledb",
+  "name": "@amilajack/oracledb",
   "version": "2.0.16",
   "description": "Oracle Database driver by Oracle Corp.",
   "license": "Apache-2.0",
